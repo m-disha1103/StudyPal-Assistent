@@ -219,3 +219,7 @@ __marimo__/
 .streamlit/secrets.toml
 
 data_original/
+
+#vector stores
+vector_db/
+chapters_vector_db/
